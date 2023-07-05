@@ -1,0 +1,22 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1uF","CP_Radial_D5.0mm_P2.00mm",143.000000,-116.000000,180.000000,top
+"C2","220uF","CP_Radial_D5.0mm_P2.00mm",150.000000,-116.000000,0.000000,top
+"C3","10uF","CP_Radial_D5.0mm_P2.00mm",159.000000,-116.000000,0.000000,top
+"C4","10uF","CP_Radial_D5.0mm_P2.00mm",115.000000,-90.000000,0.000000,top
+"C5","10uF","CP_Radial_D5.0mm_P2.00mm",123.000000,-90.000000,0.000000,top
+"D1","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",114.920000,-97.000000,0.000000,top
+"D4","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",125.080000,-82.000000,180.000000,top
+"J1","Eurorack style bus","PinHeader_2x08_P2.54mm_Vertical",106.000000,-89.840000,0.000000,top
+"J4","input breakout","PinHeader_1x03_P2.54mm_Vertical",128.920000,-116.000000,90.000000,top
+"J6","Output breakout","PinHeader_1x03_P2.54mm_Vertical",169.000000,-108.540000,180.000000,top
+"R1","18k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",129.921000,-87.000000,0.000000,top
+"R2","22k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",145.288000,-105.283000,90.000000,top
+"R3","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",150.749000,-80.920000,-90.000000,top
+"R4","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",149.920000,-104.000000,0.000000,top
+"R5","22k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",149.920000,-109.000000,0.000000,top
+"R6","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",145.288000,-80.920000,-90.000000,top
+"R7","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",129.920000,-82.000000,0.000000,top
+"R8","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",169.000000,-99.080000,90.000000,top
+"SW1","CV Int/Ext","PinHeader_1x03_P2.54mm_Vertical",115.475000,-116.000000,90.000000,top
+"U1","LM13600","DIP-16_W7.62mm_Socket_LongPads",156.200000,-81.220000,0.000000,top
+"U2","CA3140","DIP-8_W7.62mm_Socket_LongPads",131.200000,-93.200000,0.000000,top
