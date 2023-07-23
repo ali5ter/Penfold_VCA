@@ -12,11 +12,12 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R1","18k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",129.921000,-87.000000,0.000000,top
 "R2","22k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",145.288000,-105.283000,90.000000,top
 "R3","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",150.749000,-80.920000,-90.000000,top
-"R4","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",149.920000,-104.000000,0.000000,top
+"R4","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",154.170000,-104.500000,0.000000,top
 "R5","22k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",149.920000,-109.000000,0.000000,top
 "R6","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",145.288000,-80.920000,-90.000000,top
 "R7","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",129.920000,-82.000000,0.000000,top
 "R8","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",169.000000,-99.080000,90.000000,top
+"R9","18k","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",150.500000,-95.170000,-90.000000,top
 "SW1","CV Int/Ext","PinHeader_1x03_P2.54mm_Vertical",115.475000,-116.000000,90.000000,top
 "U1","LM13600","DIP-16_W7.62mm_Socket_LongPads",156.200000,-81.220000,0.000000,top
 "U2","CA3140","DIP-8_W7.62mm_Socket_LongPads",131.200000,-93.200000,0.000000,top
