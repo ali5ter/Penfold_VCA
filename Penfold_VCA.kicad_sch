@@ -7,7 +7,7 @@
   (title_block
     (title "Penfold VCA")
     (date "2023-04-23")
-    (rev "v1.0")
+    (rev "v1.2")
     (comment 1 "BP185, fIrst published 1986, Bernard Babani")
     (comment 2 "Based on designs from 'Electronic Synthesister Construction', by R.A.Penfold")
   )
